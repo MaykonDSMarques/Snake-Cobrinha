@@ -1,0 +1,1 @@
+//some strange error here when the name is main
